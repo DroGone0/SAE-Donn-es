@@ -1,0 +1,558 @@
+[09:03:40 2025-01-22 - Données vélos]
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Rue Jules Ferry - Gare Saint-Roch
+Capacite :       8  utilisés / 20       places totales   soit 40.00% d'occupation   -   working      -   Comédie
+Capacite :      14  utilisés / 16       places totales   soit 87.50% d'occupation   -   working      -   Hôtel de Ville
+Capacite :       3  utilisés / 12       places totales   soit 25.00% d'occupation   -   working      -   Corum
+Capacite :       4  utilisés / 27       places totales   soit 14.81% d'occupation   -   working      -   Place Albert 1er - St Charles
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Foch
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Halles Castellane
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Observatoire
+Capacite :       4  utilisés / 16       places totales   soit 25.00% d'occupation   -   working      -   Rondelet
+Capacite :      11  utilisés / 12       places totales   soit 91.67% d'occupation   -   working      -   Plan Cabanes
+Capacite :       9  utilisés / 12       places totales   soit 75.00% d'occupation   -   working      -   Boutonnet
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Emile Combes
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Beaux-Arts
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Les Aubes
+Capacite :       3  utilisés / 12       places totales   soit 25.00% d'occupation   -   working      -   Antigone centre
+Capacite :      12  utilisés / 16       places totales   soit 75.00% d'occupation   -   working      -   Médiathèque Emile Zola
+Capacite :       9  utilisés / 16       places totales   soit 56.25% d'occupation   -   working      -   Nombre d Or
+Capacite :       0  utilisés / 16       places totales   soit 0.00 % d'occupation   -   working      -   Louis Blanc
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Gambetta
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Port Marianne
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Les Arceaux
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Cité Mion
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Nouveau Saint-Roch
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Renouvier
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Odysseum
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Saint-Denis
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Richter
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Charles Flahault
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Voltaire
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Prés d Arènes
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Garcia Lorca
+Capacite :      13  utilisés / 16       places totales   soit 81.25% d'occupation   -   working      -   Vert Bois
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Malbosc
+Capacite :      26  utilisés / 32       places totales   soit 81.25% d'occupation   -   working      -   Occitanie
+Capacite :       2  utilisés / 24       places totales   soit 8.33 % d'occupation   -   working      -   FacdesSciences
+Capacite :       8  utilisés / 12       places totales   soit 66.67% d'occupation   -   working      -   Fac de Lettres
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Aiguelongue
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Jeu de Mail des Abbés
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Euromédecine
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Marie Caizergues
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Sabines
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Celleneuve
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Jardin de la Lironde
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Père Soulas
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Place Viala
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Hôtel du Département
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Tonnelles
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Parvis Jules Ferry - Gare Saint-Roch
+Capacite :      11  utilisés / 12       places totales   soit 91.67% d'occupation   -   working      -   Pont de Lattes - Gare Saint-Roch
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Deux Ponts - Gare Saint-Roch
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Providence - Ovalie
+Capacite :      34  utilisés / 68       places totales   soit 50.00% d'occupation   -   working      -   Pérols Etang de l Or
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Albert 1er - Cathédrale
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Saint-Guilhem - Courreau
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Sud De France
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Comedie Baudin
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Jean de Beins
+
+
+[09:03:40 2025-01-22 - Données voitures]
+Capacite :     118  utilisées / 239      places totales   soit 49.37% d'occupation   -   Open         -   Antigone
+Capacite :     235  utilisées / 731      places totales   soit 32.15% d'occupation   -   Open         -   Comedie
+Capacite :     197  utilisées / 490      places totales   soit 40.20% d'occupation   -   Open         -   Corum
+Capacite :     258  utilisées / 591      places totales   soit 43.65% d'occupation   -   Open         -   Europa
+Capacite :     509  utilisées / 598      places totales   soit 85.12% d'occupation   -   Open         -   Foch
+Capacite :     251  utilisées / 440      places totales   soit 57.05% d'occupation   -   Open         -   Gambetta
+Capacite :     451  utilisées / 653      places totales   soit 69.07% d'occupation   -   Open         -   Gare
+Capacite :     147  utilisées / 434      places totales   soit 33.87% d'occupation   -   Open         -   Triangle
+Capacite :     204  utilisées / 587      places totales   soit 34.75% d'occupation   -   Open         -   Pitot
+Capacite :     273  utilisées / 1200     places totales   soit 22.75% d'occupation   -   Open         -   Circe
+Capacite :     122  utilisées / 395      places totales   soit 30.89% d'occupation   -   Open         -   Garcia Lorca
+Capacite :     159  utilisées / 350      places totales   soit 45.43% d'occupation   -   Open         -   Mosson
+Capacite :     138  utilisées / 220      places totales   soit 62.73% d'occupation   -   Open         -   Sabines
+Capacite :     158  utilisées / 372      places totales   soit 42.47% d'occupation   -   Open         -   Sablassou
+Capacite :      63  utilisées / 285      places totales   soit 22.11% d'occupation   -   Open         -   Saint Jean Le Sec
+Capacite :     191  utilisées / 255      places totales   soit 74.90% d'occupation   -   Open         -   Euromedecine
+Capacite :     356  utilisées / 615      places totales   soit 57.89% d'occupation   -   Open         -   Occitanie
+Capacite :      16  utilisées / 65       places totales   soit 24.62% d'occupation   -   Open         -   Vicarello
+Capacite :      13  utilisées / 109      places totales   soit 11.93% d'occupation   -   Open         -   Gaumont EST
+Capacite :     210  utilisées / 250      places totales   soit 84.00% d'occupation   -   Open         -   Gaumont OUEST
+Capacite :     206  utilisées / 260      places totales   soit 79.23% d'occupation   -   Open         -   Charles de Gaulle
+Capacite :     395  utilisées / 1911     places totales   soit 20.67% d'occupation   -   Open         -   Polygone
+Capacite :     322  utilisées / 440      places totales   soit 73.18% d'occupation   -   Open         -   Arc de Triomphe
+Capacite :     166  utilisées / 500      places totales   soit 33.20% d'occupation   -   Open         -   Gaumont-Circe
+
+
+[Moyennes globales]
+Capacite :     371  utilisés / 703      places totales   soit 52.77% d'occupation   -   Moyenne parkings vélos
+Capacite :    5158  utilisées / 11990    places totales   soit 43.02% d'occupation   -   Moyenne parkings voitures
+
+
+
+[09:13:41 2025-01-22 - Données vélos]
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Rue Jules Ferry - Gare Saint-Roch
+Capacite :       8  utilisés / 20       places totales   soit 40.00% d'occupation   -   working      -   Comédie
+Capacite :      14  utilisés / 16       places totales   soit 87.50% d'occupation   -   working      -   Hôtel de Ville
+Capacite :       3  utilisés / 12       places totales   soit 25.00% d'occupation   -   working      -   Corum
+Capacite :       4  utilisés / 27       places totales   soit 14.81% d'occupation   -   working      -   Place Albert 1er - St Charles
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Foch
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Halles Castellane
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Observatoire
+Capacite :       3  utilisés / 16       places totales   soit 18.75% d'occupation   -   working      -   Rondelet
+Capacite :      12  utilisés / 12       places totales   soit 100.00% d'occupation   -   working      -   Plan Cabanes
+Capacite :       9  utilisés / 12       places totales   soit 75.00% d'occupation   -   working      -   Boutonnet
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Emile Combes
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Beaux-Arts
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Les Aubes
+Capacite :       7  utilisés / 12       places totales   soit 58.33% d'occupation   -   working      -   Antigone centre
+Capacite :      12  utilisés / 16       places totales   soit 75.00% d'occupation   -   working      -   Médiathèque Emile Zola
+Capacite :       9  utilisés / 16       places totales   soit 56.25% d'occupation   -   working      -   Nombre d Or
+Capacite :       0  utilisés / 16       places totales   soit 0.00 % d'occupation   -   working      -   Louis Blanc
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Gambetta
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Port Marianne
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Les Arceaux
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Cité Mion
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Nouveau Saint-Roch
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Renouvier
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Odysseum
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Saint-Denis
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Richter
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Charles Flahault
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Voltaire
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Prés d Arènes
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Garcia Lorca
+Capacite :      13  utilisés / 16       places totales   soit 81.25% d'occupation   -   working      -   Vert Bois
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Malbosc
+Capacite :      26  utilisés / 32       places totales   soit 81.25% d'occupation   -   working      -   Occitanie
+Capacite :       2  utilisés / 24       places totales   soit 8.33 % d'occupation   -   working      -   FacdesSciences
+Capacite :       8  utilisés / 12       places totales   soit 66.67% d'occupation   -   working      -   Fac de Lettres
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Aiguelongue
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Jeu de Mail des Abbés
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Euromédecine
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Marie Caizergues
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Sabines
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Celleneuve
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Jardin de la Lironde
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Père Soulas
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Place Viala
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Hôtel du Département
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Tonnelles
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Parvis Jules Ferry - Gare Saint-Roch
+Capacite :      11  utilisés / 12       places totales   soit 91.67% d'occupation   -   working      -   Pont de Lattes - Gare Saint-Roch
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Deux Ponts - Gare Saint-Roch
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Providence - Ovalie
+Capacite :      34  utilisés / 68       places totales   soit 50.00% d'occupation   -   working      -   Pérols Etang de l Or
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Albert 1er - Cathédrale
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Saint-Guilhem - Courreau
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Sud De France
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Comedie Baudin
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Jean de Beins
+
+
+[09:13:41 2025-01-22 - Données voitures]
+Capacite :     116  utilisées / 239      places totales   soit 48.54% d'occupation   -   Open         -   Antigone
+Capacite :     244  utilisées / 731      places totales   soit 33.38% d'occupation   -   Open         -   Comedie
+Capacite :     218  utilisées / 490      places totales   soit 44.49% d'occupation   -   Open         -   Corum
+Capacite :     274  utilisées / 591      places totales   soit 46.36% d'occupation   -   Open         -   Europa
+Capacite :     509  utilisées / 598      places totales   soit 85.12% d'occupation   -   Open         -   Foch
+Capacite :     260  utilisées / 440      places totales   soit 59.09% d'occupation   -   Open         -   Gambetta
+Capacite :     453  utilisées / 653      places totales   soit 69.37% d'occupation   -   Open         -   Gare
+Capacite :     160  utilisées / 434      places totales   soit 36.87% d'occupation   -   Open         -   Triangle
+Capacite :     218  utilisées / 587      places totales   soit 37.14% d'occupation   -   Open         -   Pitot
+Capacite :     288  utilisées / 1200     places totales   soit 24.00% d'occupation   -   Open         -   Circe
+Capacite :     125  utilisées / 395      places totales   soit 31.65% d'occupation   -   Open         -   Garcia Lorca
+Capacite :     162  utilisées / 350      places totales   soit 46.29% d'occupation   -   Open         -   Mosson
+Capacite :     145  utilisées / 220      places totales   soit 65.91% d'occupation   -   Open         -   Sabines
+Capacite :     164  utilisées / 372      places totales   soit 44.09% d'occupation   -   Open         -   Sablassou
+Capacite :      65  utilisées / 285      places totales   soit 22.81% d'occupation   -   Open         -   Saint Jean Le Sec
+Capacite :     200  utilisées / 255      places totales   soit 78.43% d'occupation   -   Open         -   Euromedecine
+Capacite :     368  utilisées / 615      places totales   soit 59.84% d'occupation   -   Open         -   Occitanie
+Capacite :      22  utilisées / 65       places totales   soit 33.85% d'occupation   -   Open         -   Vicarello
+Capacite :      13  utilisées / 109      places totales   soit 11.93% d'occupation   -   Open         -   Gaumont EST
+Capacite :     213  utilisées / 250      places totales   soit 85.20% d'occupation   -   Open         -   Gaumont OUEST
+Capacite :     221  utilisées / 260      places totales   soit 85.00% d'occupation   -   Open         -   Charles de Gaulle
+Capacite :     419  utilisées / 1911     places totales   soit 21.93% d'occupation   -   Open         -   Polygone
+Capacite :     326  utilisées / 440      places totales   soit 74.09% d'occupation   -   Open         -   Arc de Triomphe
+Capacite :     179  utilisées / 500      places totales   soit 35.80% d'occupation   -   Open         -   Gaumont-Circe
+
+
+[Moyennes globales]
+Capacite :     376  utilisés / 703      places totales   soit 53.49% d'occupation   -   Moyenne parkings vélos
+Capacite :    5362  utilisées / 11990    places totales   soit 44.72% d'occupation   -   Moyenne parkings voitures
+
+
+
+[09:23:43 2025-01-22 - Données vélos]
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Rue Jules Ferry - Gare Saint-Roch
+Capacite :       8  utilisés / 20       places totales   soit 40.00% d'occupation   -   working      -   Comédie
+Capacite :      14  utilisés / 16       places totales   soit 87.50% d'occupation   -   working      -   Hôtel de Ville
+Capacite :       3  utilisés / 12       places totales   soit 25.00% d'occupation   -   working      -   Corum
+Capacite :       4  utilisés / 27       places totales   soit 14.81% d'occupation   -   working      -   Place Albert 1er - St Charles
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Foch
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Halles Castellane
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Observatoire
+Capacite :       3  utilisés / 16       places totales   soit 18.75% d'occupation   -   working      -   Rondelet
+Capacite :      12  utilisés / 12       places totales   soit 100.00% d'occupation   -   working      -   Plan Cabanes
+Capacite :       9  utilisés / 12       places totales   soit 75.00% d'occupation   -   working      -   Boutonnet
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Emile Combes
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Beaux-Arts
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Les Aubes
+Capacite :       7  utilisés / 12       places totales   soit 58.33% d'occupation   -   working      -   Antigone centre
+Capacite :      12  utilisés / 16       places totales   soit 75.00% d'occupation   -   working      -   Médiathèque Emile Zola
+Capacite :       9  utilisés / 16       places totales   soit 56.25% d'occupation   -   working      -   Nombre d Or
+Capacite :       0  utilisés / 16       places totales   soit 0.00 % d'occupation   -   working      -   Louis Blanc
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Gambetta
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Port Marianne
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Les Arceaux
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Cité Mion
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Nouveau Saint-Roch
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Renouvier
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Odysseum
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Saint-Denis
+Capacite :      10  utilisés / 16       places totales   soit 62.50% d'occupation   -   working      -   Richter
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Charles Flahault
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Voltaire
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Prés d Arènes
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Garcia Lorca
+Capacite :      13  utilisés / 16       places totales   soit 81.25% d'occupation   -   working      -   Vert Bois
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Malbosc
+Capacite :      26  utilisés / 32       places totales   soit 81.25% d'occupation   -   working      -   Occitanie
+Capacite :       2  utilisés / 24       places totales   soit 8.33 % d'occupation   -   working      -   FacdesSciences
+Capacite :       9  utilisés / 12       places totales   soit 75.00% d'occupation   -   working      -   Fac de Lettres
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Aiguelongue
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Jeu de Mail des Abbés
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Euromédecine
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Marie Caizergues
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Sabines
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Celleneuve
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Jardin de la Lironde
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Père Soulas
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Place Viala
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Hôtel du Département
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Tonnelles
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Parvis Jules Ferry - Gare Saint-Roch
+Capacite :      11  utilisés / 12       places totales   soit 91.67% d'occupation   -   working      -   Pont de Lattes - Gare Saint-Roch
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Deux Ponts - Gare Saint-Roch
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Providence - Ovalie
+Capacite :      34  utilisés / 68       places totales   soit 50.00% d'occupation   -   working      -   Pérols Etang de l Or
+Capacite :       5  utilisés / 12       places totales   soit 41.67% d'occupation   -   working      -   Albert 1er - Cathédrale
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Saint-Guilhem - Courreau
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Sud De France
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Comedie Baudin
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Jean de Beins
+
+
+[09:23:43 2025-01-22 - Données voitures]
+Capacite :     118  utilisées / 239      places totales   soit 49.37% d'occupation   -   Open         -   Antigone
+Capacite :     251  utilisées / 731      places totales   soit 34.34% d'occupation   -   Open         -   Comedie
+Capacite :     223  utilisées / 490      places totales   soit 45.51% d'occupation   -   Open         -   Corum
+Capacite :     282  utilisées / 591      places totales   soit 47.72% d'occupation   -   Open         -   Europa
+Capacite :     509  utilisées / 598      places totales   soit 85.12% d'occupation   -   Open         -   Foch
+Capacite :     265  utilisées / 440      places totales   soit 60.23% d'occupation   -   Open         -   Gambetta
+Capacite :     458  utilisées / 653      places totales   soit 70.14% d'occupation   -   Open         -   Gare
+Capacite :     177  utilisées / 434      places totales   soit 40.78% d'occupation   -   Open         -   Triangle
+Capacite :     237  utilisées / 587      places totales   soit 40.37% d'occupation   -   Open         -   Pitot
+Capacite :     306  utilisées / 1200     places totales   soit 25.50% d'occupation   -   Open         -   Circe
+Capacite :     128  utilisées / 395      places totales   soit 32.41% d'occupation   -   Open         -   Garcia Lorca
+Capacite :     167  utilisées / 350      places totales   soit 47.71% d'occupation   -   Open         -   Mosson
+Capacite :     153  utilisées / 220      places totales   soit 69.55% d'occupation   -   Open         -   Sabines
+Capacite :     172  utilisées / 372      places totales   soit 46.24% d'occupation   -   Open         -   Sablassou
+Capacite :      66  utilisées / 285      places totales   soit 23.16% d'occupation   -   Open         -   Saint Jean Le Sec
+Capacite :     202  utilisées / 255      places totales   soit 79.22% d'occupation   -   Open         -   Euromedecine
+Capacite :     390  utilisées / 615      places totales   soit 63.41% d'occupation   -   Open         -   Occitanie
+Capacite :      19  utilisées / 65       places totales   soit 29.23% d'occupation   -   Open         -   Vicarello
+Capacite :      13  utilisées / 109      places totales   soit 11.93% d'occupation   -   Open         -   Gaumont EST
+Capacite :     220  utilisées / 250      places totales   soit 88.00% d'occupation   -   Open         -   Gaumont OUEST
+Capacite :     224  utilisées / 260      places totales   soit 86.15% d'occupation   -   Open         -   Charles de Gaulle
+Capacite :     454  utilisées / 1911     places totales   soit 23.76% d'occupation   -   Open         -   Polygone
+Capacite :     331  utilisées / 440      places totales   soit 75.23% d'occupation   -   Open         -   Arc de Triomphe
+Capacite :     187  utilisées / 500      places totales   soit 37.40% d'occupation   -   Open         -   Gaumont-Circe
+
+
+[Moyennes globales]
+Capacite :     379  utilisés / 703      places totales   soit 53.91% d'occupation   -   Moyenne parkings vélos
+Capacite :    5552  utilisées / 11990    places totales   soit 46.31% d'occupation   -   Moyenne parkings voitures
+
+
+
+[09:33:43 2025-01-22 - Données vélos]
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Rue Jules Ferry - Gare Saint-Roch
+Capacite :       8  utilisés / 20       places totales   soit 40.00% d'occupation   -   working      -   Comédie
+Capacite :      14  utilisés / 16       places totales   soit 87.50% d'occupation   -   working      -   Hôtel de Ville
+Capacite :       3  utilisés / 12       places totales   soit 25.00% d'occupation   -   working      -   Corum
+Capacite :       3  utilisés / 27       places totales   soit 11.11% d'occupation   -   working      -   Place Albert 1er - St Charles
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Foch
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Halles Castellane
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Observatoire
+Capacite :       3  utilisés / 16       places totales   soit 18.75% d'occupation   -   working      -   Rondelet
+Capacite :      12  utilisés / 12       places totales   soit 100.00% d'occupation   -   working      -   Plan Cabanes
+Capacite :      10  utilisés / 12       places totales   soit 83.33% d'occupation   -   working      -   Boutonnet
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Emile Combes
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Beaux-Arts
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Les Aubes
+Capacite :       6  utilisés / 12       places totales   soit 50.00% d'occupation   -   working      -   Antigone centre
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Médiathèque Emile Zola
+Capacite :       9  utilisés / 16       places totales   soit 56.25% d'occupation   -   working      -   Nombre d Or
+Capacite :       0  utilisés / 16       places totales   soit 0.00 % d'occupation   -   working      -   Louis Blanc
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Gambetta
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Port Marianne
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Les Arceaux
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Cité Mion
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Nouveau Saint-Roch
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Renouvier
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Odysseum
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Saint-Denis
+Capacite :      10  utilisés / 16       places totales   soit 62.50% d'occupation   -   working      -   Richter
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Charles Flahault
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Voltaire
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Prés d Arènes
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Garcia Lorca
+Capacite :      13  utilisés / 16       places totales   soit 81.25% d'occupation   -   working      -   Vert Bois
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Malbosc
+Capacite :      26  utilisés / 32       places totales   soit 81.25% d'occupation   -   working      -   Occitanie
+Capacite :       2  utilisés / 24       places totales   soit 8.33 % d'occupation   -   working      -   FacdesSciences
+Capacite :       8  utilisés / 12       places totales   soit 66.67% d'occupation   -   working      -   Fac de Lettres
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Aiguelongue
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Jeu de Mail des Abbés
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Euromédecine
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Marie Caizergues
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Sabines
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Celleneuve
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Jardin de la Lironde
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Père Soulas
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Place Viala
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Hôtel du Département
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Tonnelles
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Parvis Jules Ferry - Gare Saint-Roch
+Capacite :      11  utilisés / 12       places totales   soit 91.67% d'occupation   -   working      -   Pont de Lattes - Gare Saint-Roch
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Deux Ponts - Gare Saint-Roch
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Providence - Ovalie
+Capacite :      34  utilisés / 68       places totales   soit 50.00% d'occupation   -   working      -   Pérols Etang de l Or
+Capacite :       5  utilisés / 12       places totales   soit 41.67% d'occupation   -   working      -   Albert 1er - Cathédrale
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Saint-Guilhem - Courreau
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Sud De France
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Comedie Baudin
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Jean de Beins
+
+
+[09:33:43 2025-01-22 - Données voitures]
+Capacite :     118  utilisées / 239      places totales   soit 49.37% d'occupation   -   Open         -   Antigone
+Capacite :     260  utilisées / 731      places totales   soit 35.57% d'occupation   -   Open         -   Comedie
+Capacite :     228  utilisées / 490      places totales   soit 46.53% d'occupation   -   Open         -   Corum
+Capacite :     288  utilisées / 591      places totales   soit 48.73% d'occupation   -   Open         -   Europa
+Capacite :     509  utilisées / 598      places totales   soit 85.12% d'occupation   -   Open         -   Foch
+Capacite :     269  utilisées / 440      places totales   soit 61.14% d'occupation   -   Open         -   Gambetta
+Capacite :     460  utilisées / 653      places totales   soit 70.44% d'occupation   -   Open         -   Gare
+Capacite :     188  utilisées / 434      places totales   soit 43.32% d'occupation   -   Open         -   Triangle
+Capacite :     253  utilisées / 587      places totales   soit 43.10% d'occupation   -   Open         -   Pitot
+Capacite :     316  utilisées / 1200     places totales   soit 26.33% d'occupation   -   Open         -   Circe
+Capacite :     131  utilisées / 395      places totales   soit 33.16% d'occupation   -   Open         -   Garcia Lorca
+Capacite :     174  utilisées / 350      places totales   soit 49.71% d'occupation   -   Open         -   Mosson
+Capacite :     162  utilisées / 220      places totales   soit 73.64% d'occupation   -   Open         -   Sabines
+Capacite :     176  utilisées / 372      places totales   soit 47.31% d'occupation   -   Open         -   Sablassou
+Capacite :      68  utilisées / 285      places totales   soit 23.86% d'occupation   -   Open         -   Saint Jean Le Sec
+Capacite :     205  utilisées / 255      places totales   soit 80.39% d'occupation   -   Open         -   Euromedecine
+Capacite :     417  utilisées / 615      places totales   soit 67.80% d'occupation   -   Open         -   Occitanie
+Capacite :      26  utilisées / 65       places totales   soit 40.00% d'occupation   -   Open         -   Vicarello
+Capacite :      17  utilisées / 109      places totales   soit 15.60% d'occupation   -   Open         -   Gaumont EST
+Capacite :     225  utilisées / 250      places totales   soit 90.00% d'occupation   -   Open         -   Gaumont OUEST
+Capacite :     226  utilisées / 260      places totales   soit 86.92% d'occupation   -   Open         -   Charles de Gaulle
+Capacite :     487  utilisées / 1911     places totales   soit 25.48% d'occupation   -   Open         -   Polygone
+Capacite :     342  utilisées / 440      places totales   soit 77.73% d'occupation   -   Open         -   Arc de Triomphe
+Capacite :     191  utilisées / 500      places totales   soit 38.20% d'occupation   -   Open         -   Gaumont-Circe
+
+
+[Moyennes globales]
+Capacite :     376  utilisés / 703      places totales   soit 53.49% d'occupation   -   Moyenne parkings vélos
+Capacite :    5736  utilisées / 11990    places totales   soit 47.84% d'occupation   -   Moyenne parkings voitures
+
+
+
+[09:43:44 2025-01-22 - Données vélos]
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Rue Jules Ferry - Gare Saint-Roch
+Capacite :       8  utilisés / 20       places totales   soit 40.00% d'occupation   -   working      -   Comédie
+Capacite :      14  utilisés / 16       places totales   soit 87.50% d'occupation   -   working      -   Hôtel de Ville
+Capacite :       3  utilisés / 12       places totales   soit 25.00% d'occupation   -   working      -   Corum
+Capacite :       3  utilisés / 27       places totales   soit 11.11% d'occupation   -   working      -   Place Albert 1er - St Charles
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Foch
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Halles Castellane
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Observatoire
+Capacite :       3  utilisés / 16       places totales   soit 18.75% d'occupation   -   working      -   Rondelet
+Capacite :      12  utilisés / 12       places totales   soit 100.00% d'occupation   -   working      -   Plan Cabanes
+Capacite :      10  utilisés / 12       places totales   soit 83.33% d'occupation   -   working      -   Boutonnet
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Emile Combes
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Beaux-Arts
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Les Aubes
+Capacite :       6  utilisés / 12       places totales   soit 50.00% d'occupation   -   working      -   Antigone centre
+Capacite :      10  utilisés / 16       places totales   soit 62.50% d'occupation   -   working      -   Médiathèque Emile Zola
+Capacite :       9  utilisés / 16       places totales   soit 56.25% d'occupation   -   working      -   Nombre d Or
+Capacite :       0  utilisés / 16       places totales   soit 0.00 % d'occupation   -   working      -   Louis Blanc
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Gambetta
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Port Marianne
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Les Arceaux
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Cité Mion
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Nouveau Saint-Roch
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Renouvier
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Odysseum
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Saint-Denis
+Capacite :      10  utilisés / 16       places totales   soit 62.50% d'occupation   -   working      -   Richter
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Charles Flahault
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Voltaire
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Prés d Arènes
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Garcia Lorca
+Capacite :      13  utilisés / 16       places totales   soit 81.25% d'occupation   -   working      -   Vert Bois
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Malbosc
+Capacite :      26  utilisés / 32       places totales   soit 81.25% d'occupation   -   working      -   Occitanie
+Capacite :       2  utilisés / 24       places totales   soit 8.33 % d'occupation   -   working      -   FacdesSciences
+Capacite :       8  utilisés / 12       places totales   soit 66.67% d'occupation   -   working      -   Fac de Lettres
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Aiguelongue
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Jeu de Mail des Abbés
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Euromédecine
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Marie Caizergues
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Sabines
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Celleneuve
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Jardin de la Lironde
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Père Soulas
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Place Viala
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Hôtel du Département
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Tonnelles
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Parvis Jules Ferry - Gare Saint-Roch
+Capacite :      11  utilisés / 12       places totales   soit 91.67% d'occupation   -   working      -   Pont de Lattes - Gare Saint-Roch
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Deux Ponts - Gare Saint-Roch
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Providence - Ovalie
+Capacite :      34  utilisés / 68       places totales   soit 50.00% d'occupation   -   working      -   Pérols Etang de l Or
+Capacite :       5  utilisés / 12       places totales   soit 41.67% d'occupation   -   working      -   Albert 1er - Cathédrale
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Saint-Guilhem - Courreau
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Sud De France
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Comedie Baudin
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Jean de Beins
+
+
+[09:43:44 2025-01-22 - Données voitures]
+Capacite :     118  utilisées / 239      places totales   soit 49.37% d'occupation   -   Open         -   Antigone
+Capacite :     270  utilisées / 731      places totales   soit 36.94% d'occupation   -   Open         -   Comedie
+Capacite :     232  utilisées / 490      places totales   soit 47.35% d'occupation   -   Open         -   Corum
+Capacite :     291  utilisées / 591      places totales   soit 49.24% d'occupation   -   Open         -   Europa
+Capacite :     509  utilisées / 598      places totales   soit 85.12% d'occupation   -   Open         -   Foch
+Capacite :     275  utilisées / 440      places totales   soit 62.50% d'occupation   -   Open         -   Gambetta
+Capacite :     464  utilisées / 653      places totales   soit 71.06% d'occupation   -   Open         -   Gare
+Capacite :     197  utilisées / 434      places totales   soit 45.39% d'occupation   -   Open         -   Triangle
+Capacite :     264  utilisées / 587      places totales   soit 44.97% d'occupation   -   Open         -   Pitot
+Capacite :     325  utilisées / 1200     places totales   soit 27.08% d'occupation   -   Open         -   Circe
+Capacite :     134  utilisées / 395      places totales   soit 33.92% d'occupation   -   Open         -   Garcia Lorca
+Capacite :     178  utilisées / 350      places totales   soit 50.86% d'occupation   -   Open         -   Mosson
+Capacite :     161  utilisées / 220      places totales   soit 73.18% d'occupation   -   Open         -   Sabines
+Capacite :     181  utilisées / 372      places totales   soit 48.66% d'occupation   -   Open         -   Sablassou
+Capacite :      71  utilisées / 285      places totales   soit 24.91% d'occupation   -   Open         -   Saint Jean Le Sec
+Capacite :     208  utilisées / 255      places totales   soit 81.57% d'occupation   -   Open         -   Euromedecine
+Capacite :     435  utilisées / 615      places totales   soit 70.73% d'occupation   -   Open         -   Occitanie
+Capacite :      29  utilisées / 65       places totales   soit 44.62% d'occupation   -   Open         -   Vicarello
+Capacite :      17  utilisées / 109      places totales   soit 15.60% d'occupation   -   Open         -   Gaumont EST
+Capacite :     228  utilisées / 250      places totales   soit 91.20% d'occupation   -   Open         -   Gaumont OUEST
+Capacite :     230  utilisées / 260      places totales   soit 88.46% d'occupation   -   Open         -   Charles de Gaulle
+Capacite :     525  utilisées / 1911     places totales   soit 27.47% d'occupation   -   Open         -   Polygone
+Capacite :     343  utilisées / 440      places totales   soit 77.95% d'occupation   -   Open         -   Arc de Triomphe
+Capacite :     196  utilisées / 500      places totales   soit 39.20% d'occupation   -   Open         -   Gaumont-Circe
+
+
+[Moyennes globales]
+Capacite :     372  utilisés / 703      places totales   soit 52.92% d'occupation   -   Moyenne parkings vélos
+Capacite :    5881  utilisées / 11990    places totales   soit 49.05% d'occupation   -   Moyenne parkings voitures
+
+
+
+[09:53:46 2025-01-22 - Données vélos]
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Rue Jules Ferry - Gare Saint-Roch
+Capacite :       8  utilisés / 20       places totales   soit 40.00% d'occupation   -   working      -   Comédie
+Capacite :      14  utilisés / 16       places totales   soit 87.50% d'occupation   -   working      -   Hôtel de Ville
+Capacite :       3  utilisés / 12       places totales   soit 25.00% d'occupation   -   working      -   Corum
+Capacite :       3  utilisés / 27       places totales   soit 11.11% d'occupation   -   working      -   Place Albert 1er - St Charles
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Foch
+Capacite :       4  utilisés / 12       places totales   soit 33.33% d'occupation   -   working      -   Halles Castellane
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Observatoire
+Capacite :       3  utilisés / 16       places totales   soit 18.75% d'occupation   -   working      -   Rondelet
+Capacite :      12  utilisés / 12       places totales   soit 100.00% d'occupation   -   working      -   Plan Cabanes
+Capacite :      10  utilisés / 12       places totales   soit 83.33% d'occupation   -   working      -   Boutonnet
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Emile Combes
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Beaux-Arts
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Les Aubes
+Capacite :       6  utilisés / 12       places totales   soit 50.00% d'occupation   -   working      -   Antigone centre
+Capacite :      10  utilisés / 16       places totales   soit 62.50% d'occupation   -   working      -   Médiathèque Emile Zola
+Capacite :       9  utilisés / 16       places totales   soit 56.25% d'occupation   -   working      -   Nombre d Or
+Capacite :       0  utilisés / 16       places totales   soit 0.00 % d'occupation   -   working      -   Louis Blanc
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Gambetta
+Capacite :      11  utilisés / 16       places totales   soit 68.75% d'occupation   -   working      -   Port Marianne
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Les Arceaux
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Cité Mion
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Nouveau Saint-Roch
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Renouvier
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Odysseum
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Saint-Denis
+Capacite :      10  utilisés / 16       places totales   soit 62.50% d'occupation   -   working      -   Richter
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Charles Flahault
+Capacite :       2  utilisés / 8        places totales   soit 25.00% d'occupation   -   working      -   Voltaire
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Prés d Arènes
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Garcia Lorca
+Capacite :      13  utilisés / 16       places totales   soit 81.25% d'occupation   -   working      -   Vert Bois
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Malbosc
+Capacite :      26  utilisés / 32       places totales   soit 81.25% d'occupation   -   working      -   Occitanie
+Capacite :       2  utilisés / 24       places totales   soit 8.33 % d'occupation   -   working      -   FacdesSciences
+Capacite :       6  utilisés / 12       places totales   soit 50.00% d'occupation   -   working      -   Fac de Lettres
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Aiguelongue
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Jeu de Mail des Abbés
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Euromédecine
+Capacite :       0  utilisés / 8        places totales   soit 0.00 % d'occupation   -   working      -   Marie Caizergues
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Sabines
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Celleneuve
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Jardin de la Lironde
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Père Soulas
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Place Viala
+Capacite :       1  utilisés / 8        places totales   soit 12.50% d'occupation   -   working      -   Hôtel du Département
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Tonnelles
+Capacite :       6  utilisés / 8        places totales   soit 75.00% d'occupation   -   working      -   Parvis Jules Ferry - Gare Saint-Roch
+Capacite :      11  utilisés / 12       places totales   soit 91.67% d'occupation   -   working      -   Pont de Lattes - Gare Saint-Roch
+Capacite :       8  utilisés / 8        places totales   soit 100.00% d'occupation   -   working      -   Deux Ponts - Gare Saint-Roch
+Capacite :       4  utilisés / 8        places totales   soit 50.00% d'occupation   -   working      -   Providence - Ovalie
+Capacite :      34  utilisés / 68       places totales   soit 50.00% d'occupation   -   working      -   Pérols Etang de l Or
+Capacite :       5  utilisés / 12       places totales   soit 41.67% d'occupation   -   working      -   Albert 1er - Cathédrale
+Capacite :       3  utilisés / 8        places totales   soit 37.50% d'occupation   -   working      -   Saint-Guilhem - Courreau
+Capacite :       7  utilisés / 8        places totales   soit 87.50% d'occupation   -   working      -   Sud De France
+Capacite :       5  utilisés / 8        places totales   soit 62.50% d'occupation   -   working      -   Comedie Baudin
+Capacite :       8  utilisés / 16       places totales   soit 50.00% d'occupation   -   working      -   Jean de Beins
+
+
+[09:53:46 2025-01-22 - Données voitures]
+Capacite :     120  utilisées / 239      places totales   soit 50.21% d'occupation   -   Open         -   Antigone
+Capacite :     279  utilisées / 731      places totales   soit 38.17% d'occupation   -   Open         -   Comedie
+Capacite :     238  utilisées / 490      places totales   soit 48.57% d'occupation   -   Open         -   Corum
+Capacite :     297  utilisées / 591      places totales   soit 50.25% d'occupation   -   Open         -   Europa
+Capacite :     509  utilisées / 598      places totales   soit 85.12% d'occupation   -   Open         -   Foch
+Capacite :     282  utilisées / 440      places totales   soit 64.09% d'occupation   -   Open         -   Gambetta
+Capacite :     466  utilisées / 653      places totales   soit 71.36% d'occupation   -   Open         -   Gare
+Capacite :     208  utilisées / 434      places totales   soit 47.93% d'occupation   -   Open         -   Triangle
+Capacite :     273  utilisées / 587      places totales   soit 46.51% d'occupation   -   Open         -   Pitot
+Capacite :     327  utilisées / 1200     places totales   soit 27.25% d'occupation   -   Open         -   Circe
+Capacite :     134  utilisées / 395      places totales   soit 33.92% d'occupation   -   Open         -   Garcia Lorca
+Capacite :     185  utilisées / 350      places totales   soit 52.86% d'occupation   -   Open         -   Mosson
+Capacite :     164  utilisées / 220      places totales   soit 74.55% d'occupation   -   Open         -   Sabines
+Capacite :     190  utilisées / 372      places totales   soit 51.08% d'occupation   -   Open         -   Sablassou
+Capacite :      72  utilisées / 285      places totales   soit 25.26% d'occupation   -   Open         -   Saint Jean Le Sec
+Capacite :     209  utilisées / 255      places totales   soit 81.96% d'occupation   -   Open         -   Euromedecine
+Capacite :     439  utilisées / 615      places totales   soit 71.38% d'occupation   -   Open         -   Occitanie
+Capacite :      32  utilisées / 65       places totales   soit 49.23% d'occupation   -   Open         -   Vicarello
+Capacite :      17  utilisées / 109      places totales   soit 15.60% d'occupation   -   Open         -   Gaumont EST
+Capacite :     229  utilisées / 250      places totales   soit 91.60% d'occupation   -   Open         -   Gaumont OUEST
+Capacite :     231  utilisées / 260      places totales   soit 88.85% d'occupation   -   Open         -   Charles de Gaulle
+Capacite :     559  utilisées / 1911     places totales   soit 29.25% d'occupation   -   Open         -   Polygone
+Capacite :     346  utilisées / 440      places totales   soit 78.64% d'occupation   -   Open         -   Arc de Triomphe
+Capacite :     198  utilisées / 500      places totales   soit 39.60% d'occupation   -   Open         -   Gaumont-Circe
+
+
+[Moyennes globales]
+Capacite :     370  utilisés / 703      places totales   soit 52.63% d'occupation   -   Moyenne parkings vélos
+Capacite :    6004  utilisées / 11990    places totales   soit 50.08% d'occupation   -   Moyenne parkings voitures
+
+
+

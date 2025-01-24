@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Analyse des Parkings - Montpellier</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Bienvenue sur notre page d'étude</h1>
+        <nav>
+            <a href="#introduction">Introduction</a>
+            <a href="#questions">Questions</a>
+            <a href="#data-visualization">Visualisation des Données</a>
+            <a href="#conclusions">Conclusions</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="introduction">
+            <h2>Introduction</h2>
+            <p>Nous avons été mandatés par la mairie de Montpellier pour étudier l'utilisation des parkings de la ville. L'objectif est d'évaluer l'efficacité du système de relais entre les parkings automobiles et les parkings à vélos, afin de vérifier s'il fonctionne comme prévu.</p>
+            <p>Pour ce faire, nous avons analysé différentes données issues de la plateforme <a href="https://data.montpellier3m.fr/" target="_blank">Open Data Montpellier</a>.</p>
+        
+        </section>
+
+        <section id="questions">
+            <h2>Questions</h2>
+            <div class="questions">
+                <div class="question">
+                    <p>Quelle est la capacité maximale des parkings automobiles de Montpellier ?</p>
+                    <p class="answer">La ville de Montpellier dispose d’une capacité totale de 11 990 places pour les voitures, réparties sur 25 parkings situés selon nos observations dans les zones importantes comme le centre-ville, les gares, et les centres commerciaux, ect. La taille des parkings varie largement : des grands parkings comme le Polygone (1 911 places) ou Circe (1 200 places) aux parkings plus modestes comme Vicarello (65 places) ou Gaumont EST (109 places).</p>
+                    <div class="chart-item">
+                        <div class="chart">
+                            <h3>Graphique de la répartition des places de parkings</h3>
+                            <img src="icons/parkings_voitures.png" alt="Graphique France 2" />
+                        </div>
+                    </div>
+                </div>
+                <div class="question">
+                    <p>Combien de parkings à vélos sont disponibles dans la ville ?</p>
+                    <p class="answer">Montpellier compte 53 parkings à vélos, offrant une capacité totale de 703 places. Ces parkings sont répartis principalement dans le centre ville et les points affluent de la ville centre-ville, les gares,ect. Les capacités des parkings varient généralement entre 8 et 32 places.
+                    </p>
+                    <div class="chart-item">
+                        <div class="chart">
+                            <h3>Emplacement des parkings a velo dans le centre ville de Montpellier</h3>
+                            <img src="icons/map_velo.png" alt="Graphique France 2" />
+                        </div>
+                    </div>
+                    
+                </div>
+                <div class="question">
+                    <p>Quel est le taux d'occupation moyen des parkings automobiles ?</p>
+                    <p class="answer">Le taux d’occupation des parkings automobiles à Montpellier est difficile à généraliser en raison des fortes inégalités entre les différentes zones, on remarque en revanche qu'en journée durant la semaine le taux d’occupation se rapproche fortement en moyenne dès 52% . Les parkings situés en centre-ville et dans les zones commerciales (par exemple, Comédie, Corum, Polygone) sont très remplis et souvent saturés aux heures de pointe comme le début d'après midi et en soirée. À l’inverse, les parkings périphériques, notamment ceux situés dans des quartiers résidentiels ou à proximité des stations de tramway (comme Mosson ou Sabines), connaissent une utilisation plus faible.</p>
+                    <div class="chart-item">
+                        <div class="chart">
+                            <h3>Graphique de la répartition des places de parkings sur 1h</h3>
+                            <img src="icons/barre_moyenne.png" alt="Graphique France 2" />
+                        </div>
+                    </div>
+                </div>
+                <div class="question">
+                    <p>Quels sont les jours les plus chargés pour les parkings ?</p>
+                    <p class="answer">Les jours les plus chargés pour les parkings sont principalement les jeudis, vendredis et samedis, correspondant à une hausse des activités en ville, des sorties le soir. En semaine, les parkings situés à proximité des zones d’activité économique et des gares sont plus sollicités tandis que dans le centre ville l'activité semble toujours assez élevée tout au long de la journée. Les parkings relais en périphérie connaissent une utilisation plus “limitée”, principalement en semaine pour des trajets “domicile-travail”, mais restent souvent moins utilisés le week-end.</p>
+                </div>
+                <div class="question">
+                    <p>Existe-t-il des incitations pour utiliser les parkings à vélos ?</p>
+                    <p class="answer">Oui, la ville de Montpellier propose des “incitations” pour favoriser l’utilisation des parkings à vélos, avec des réductions sur les abonnements “Vélomagg” qui incluent le stationnement sécurisé et l’accès aux vélos en libre-service. Ces mesures semblent efficaces dans les zones où la demande est élevée. Cependant, il semble qu’il serait judicieux d’étendre ces programmes aux parkings moins utilisés en périphérie pour équilibrer l’affluence et promouvoir davantage l’utilisation du vélo dans des zones moins “occupé”
+                    </p>
+                </div>
+                <div class="question">
+                    <p>Les parkings sont-ils accessibles 24/7 ?</p>
+                    <p class="answer">La majorité des parkings automobiles de Montpellier sont accessibles 24 heures sur 24 et 7 jours sur 7, en particulier dans les comme le centre-ville (Comédie, Polygone) et les gares. Cette accessibilité permanente favorise leurs utilisations, qu’il s’agisse de déplacements ou de stationnement. Les parkings à vélos, en revanche, sont soumis à des restrictions horaires dans certains cas, limitant leur utilisation pour des trajets tôt le matin ou tard le soir. Une extension des horaires d’accès pour les infrastructures cyclables pourrait encourager davantage d’usagers à opter pour ce mode de transport.</p>
+                </div>
+                <div class="question">
+                    <p>Quel est le coût moyen d'un parking à Montpellier ?</p>
+                    <p class="answer">Le coût moyen des parkings automobiles à Montpellier varie selon l’emplacement et les services proposés. Dans les parkings centraux, comme Comédie, Polygone ou Corum, les tarifs horaires se situent généralement entre 1,50 € et 3,00 €, avec des plafonds journaliers. Il est également possible de prendre des abonnements qui réduisent les couts d'utilisation des parkings</p>
+                </div>
+                <div class="question">
+                    <p>Y a-t-il des zones où les parkings sont insuffisants ?</p>
+                    <p class="answer">Oui, certaines zones de Montpellier souffrent d’une capacité de stationnement insuffisante par rapport à la demande. Les parkings situés en centre-ville, notamment Foch, Comédie et Corum, montrent souvent des signes de saturation, particulièrement aux heures de pointe et pendant les périodes “d’événements commerciaux” comme les soldes. Pour les vélos, des parkings comme ceux de Boutonnet, Odysseum ou Saint-Denis atteignent fréquemment leur pleine capacité, indiquant un besoin urgent d' augmenter les parkings à vélo dans ces zones. À l’inverse, les parkings situés en périphérie sont souvent sous-utilisés.
+                    </p>
+                    <div class="chart-item">
+                        <div class="chart">
+                            <h3>Heat Map des taux d'affluence en focntion de la localisation des parkings</h3>
+                            <img src="icons/map_voiture.png" alt="Graphique France 3" />
+                        </div>
+                        <div class="legend">
+                            Zone rouge : Cette zone est très sollicitée, indiquant une forte densité de flux et une grande demande en infrastructures de stationnement ou de mobilité.
+                            </br></br>
+                            Zone jaune : Cette zone est modérément sollicitée. La demande y est moins élevée que dans la zone rouge, mais elle reste significative. Ces secteurs pourraient bénéficier de renforcements ponctuels en infrastructures pour mieux répartir les places de parkings au sein de la ville
+                            </br></br>
+                            Zone verte : Cette zone est faiblement sollicitée.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="data-visualization">
+          <h2>Visualisation des Données</h2>
+          <div id="charts-container">
+              <div class="chart-item">
+                  <div class="chart">
+                      <h3>Carte de France (Graphique 1)</h3>
+                      <img src="icons/moyennes_24h.png" alt="Carte de France" />
+                  </div>
+                  <div class="legend">
+                      
+                    Le graphique met en évidence une occupation stable des parkings vélos avec un écart type faible, montrant peu de variation sur 24 heures. En revanche, les parkings voitures présentent un écart type plus élevé, reflétant des fluctuations importantes liées aux pics d’activité, notamment en milieu de journée avec un pic vers midi (près de 60 %) et une baisse en soirée, ce qui reflète une forte dépendance aux horaires d’activité (travaille et commerciales)
+                  </div>
+              </div>
+              <div class="chart-item">
+                  <div class="chart">
+                      <h3>Graphique France 1</h3>
+                      <img src="icons/evolution_moyennes_11_45.png" alt="Graphique France 1" />
+                  </div>
+                  <div class="legend">
+                    Le graphique montre l’évolution de l’occupation moyenne des parkings pour vélos et voitures sur une période donnée. Les parkings pour voitures affichent une augmentation progressive de leur taux d’occupation, atteignant environ 57 %, probablement liée à une montée de l’activité en journée, comme les déplacements pour le déjeuner ou des rendez-vous. À l’inverse, les parkings pour vélos restent stables autour de 53 %, ce qui suggère une utilisation régulière mais moins variable, possiblement par des usagers réguliers comme les étudiants ou travailleurs. Cette analyse met en évidence la nécessité d’optimiser les infrastructures pour voitures aux heures de pointe et de mieux exploiter le potentiel des parkings vélos dans les zones peu sollicitées.
+                  </div>
+              </div>
+      </section>
+      
+        <section id="conclusions">
+            <h2>Conclusions</h2>
+            <p>Montpellier a un réseau de parkings bien développé, aussi bien pour les voitures que pour les vélos. Cependant, on remarque que les parkings du centre-ville sont souvent pleins, tandis que ceux en périphérie restent peu utilisés. Pour améliorer la situation, il serait utile de proposer des tarifs plus attractifs et de mieux connecter les parkings périphériques avec les transports en commun.
+
+                Pour les vélos, certains parkings, comme ceux près des universités ou des zones commerciales, manquent de places. Ajouter plus de capacités dans ces endroits et mieux promouvoir les parkings moins utilisés pourrait aider</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Robin Britelle & Titouan Mouysset</p>
+    </footer>
+</body>
+</html>
